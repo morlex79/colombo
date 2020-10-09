@@ -69,10 +69,12 @@
     ],
   "concessions": [
     {
+      "id": 1,
       "code": "CON1",
       "description": "Concesion 1"
     },
     {
+      "id": 2,
       "code": "CON2",
       "description": "Concesion 2"
     }    
