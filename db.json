@@ -1,0 +1,15 @@
+{
+  "concessions": [
+    {
+      "code": "CON1",
+      "description": "Concesion 1"
+    },
+    {
+      "code": "CON2",
+      "description": "Concesion 2"
+    }    
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
