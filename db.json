@@ -5,7 +5,11 @@
 			"idGantrySection": "31",
 			"idMaker": "78",
 			"pk": "145",
-			"length": "768"
+			"length": "768",
+			"last": "AA",
+			"description": "Prueba1",
+			"host": "AB",
+			"tracks": "AC"
 		}
 	],
   "posts": [
