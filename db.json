@@ -1,4 +1,21 @@
 {
+	"class": [
+	{
+		"code": "483",
+		"concession": "674",
+		"description": "Prueba1"
+	},
+		{
+		"code": "484",
+		"concession": "675",
+		"description": "Prueba2"
+	},
+		{
+		"code": "485",
+		"concession": "676",
+		"description": "Prueba3"
+	}
+],
 "gantry": [
 		{
 			"idGantry": "1",
