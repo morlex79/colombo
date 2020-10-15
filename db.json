@@ -1,22 +1,10 @@
 {
   "gantry": [
-		{
-			"idGantry": "1",
-			"idGantrySection": "31",
-			"idMaker": "78",
-			"pk": "145",
-			"length": "768",
-			"last": "AA",
-			"description": "Prueba 1",
-			"host": "AB",
-			"tracks": "AC",
-			"idStretcht": "345",
-			"idDirection": "547",
-			"idTip": "875",
-			"idConcession": "384",
-			"order": "86"
-		}
-	],
+	{
+		"idGantry": "1",
+		"idGantrySection": "31"
+	}
+   ],
   "posts": [
       {
     "userId": 1,
