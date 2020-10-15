@@ -9,7 +9,12 @@
 			"last": "AA",
 			"description": "Prueba1",
 			"host": "AB",
-			"tracks": "AC"
+			"tracks": "AC",
+			"idStretcht": "345",
+			"idDirection": "547",
+			"idTip": "875",
+			"idConcession": "384",
+			"order": "86"
 		}
 	],
   "posts": [
