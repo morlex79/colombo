@@ -1,4 +1,29 @@
 {
+	  "languages" : [
+    {
+		"id" : 1,
+	  "code" : "es",	
+      "description" : "Castellano"
+    },
+    {
+		"id" : 2,
+	  "code" : "pt",	
+      "description" : "Portugues"
+    }
+  ],
+  "translations" : [
+	 { "id" : 1,
+	  "code" : "es",
+      "SELECT" : "Cambiar idioma",
+      "TITLE" : "Hola Angular con ngx-translate!"
+    },
+	{
+	  "id" : 2,
+	  "code" : "pt",
+      "SELECT" : "Mudar idioma",
+      "TITLE" : "Olá, Angular com ngx-translate!"
+    }
+  ],
 	"class": [
 	{
 		"code": "483",
