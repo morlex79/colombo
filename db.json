@@ -1,11 +1,9 @@
 {"concession": [
     {
-	    		"id" : 1,
       "code": "22",
       "description": "Concesion 1"
     },
     {
-	    		"id" : 2,
       "code": "28",
       "description": "Concesion 2"
     }    
