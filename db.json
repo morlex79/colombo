@@ -12,16 +12,19 @@
   ],
 	"class": [
 	{
+		"id" : 1,
 		"code": "483",
 		"concession": "22",
 		"description": "Prueba1"
 	},
 		{
+			"id" : 2,
 		"code": "484",
 		"concession": "28",
 		"description": "Prueba2"
 	},
 		{
+			"id" : 3,
 		"code": "485",
 		"concession": "28",
 		"description": "Prueba3"
@@ -29,6 +32,7 @@
 ],
 "gantry": [
 		{
+			"id" : 1,
 			"idGantry": "1",
 			"idGantrySection": "31",
 			"idMaker": "78",
@@ -45,6 +49,7 @@
 			"order": "86"
 		},
 		{
+			"id" : 2,
 			"idGantry": "2",
 			"idGantrySection": "32",
 			"idMaker": "86",
@@ -61,6 +66,7 @@
 			"order": "87"
 		},
 		{
+			"id" : 3,
 			"idGantry": "3",
 			"idGantrySection": "33",
 			"idMaker": "98",
@@ -79,10 +85,12 @@
 	],
   "concessions": [
     {
+	    		"id" : 1,
       "code": "22",
       "description": "Concesion 1"
     },
     {
+	    		"id" : 2,
       "code": "28",
       "description": "Concesion 2"
     }    
