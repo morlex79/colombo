@@ -1,4 +1,16 @@
-{"pattern" : [
+{"concession": [
+    {
+"id" : 1,
+      "code": "22",
+      "description": "Concesion 1"
+    },
+    {
+"id" : 2,
+      "code": "28",
+      "description": "Concesion 2"
+    }    
+  ],
+	"pattern" : [
     {
 		"id" : 1,
 	  "pattern" : "sdfdse",	
@@ -83,18 +95,6 @@
 			"order": "88"
 		}
 	],
-  "concession": [
-    {
-	    		"id" : 1,
-      "code": "22",
-      "description": "Concesion 1"
-    },
-    {
-	    		"id" : 2,
-      "code": "28",
-      "description": "Concesion 2"
-    }    
-  ],
   "profile": {
     "name": "typicode"
   }
