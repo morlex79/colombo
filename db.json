@@ -1,98 +1,157 @@
 {"concession": [
-    {
-      "code": "22",
-      "description": "Concesion 1"
-    },
-    {
-      "code": "28",
-      "description": "Concesion 2"
-    }    
-  ],
-	"pattern" : [
-    {
-		"id" : 1,
-	  "pattern" : "sdfdse",	
-      "concession" : "22"
-    },
-    {
-		"id" : 2,
-	  "pattern" : "hhjhkjku",	
-      "concession" : "28"
-    }
-  ],
-	"class": [
-	{
-		"id" : 1,
-		"code": "483",
-		"concession": "22",
-		"description": "Prueba1"
-	},
-		{
-			"id" : 2,
-		"code": "484",
-		"concession": "28",
-		"description": "Prueba2"
-	},
-		{
-			"id" : 3,
-		"code": "485",
-		"concession": "28",
-		"description": "Prueba3"
-	}
-],
-"gantry": [
-		{
-			"id" : 1,
-			"idGantry": "1",
-			"idGantrySection": "31",
-			"idMaker": "78",
-			"pk": "145",
-			"length": "768",
-			"last": "AA",
-			"description": "Prueba1",
-			"host": "AB",
-			"tracks": "AC",
-			"idStretch": "345",
-			"idDirection": "547",
-			"idTip": "875",
-			"idConcession": "22",
-			"order": "86"
-		},
-		{
-			"id" : 2,
-			"idGantry": "2",
-			"idGantrySection": "32",
-			"idMaker": "86",
-			"pk": "483",
-			"length": "549",
-			"last": "BA",
-			"description": "Prueba2",
-			"host": "BB",
-			"tracks": "BC",
-			"idStretch": "234",
-			"idDirection": "643",
-			"idTip": "276",
-			"idConcession": "22",
-			"order": "87"
-		},
-		{
-			"id" : 3,
-			"idGantry": "3",
-			"idGantrySection": "33",
-			"idMaker": "98",
-			"pk": "876",
-			"length": "847",
-			"last": "CA",
-			"description": "Prueba3",
-			"host": "CB",
-			"tracks": "CC",
-			"idStretch": "678",
-			"idDirection": "329",
-			"idTip": "549",
-			"idConcession": "28",
-			"order": "88"
-		}
-	],
+            {
+		"id": "1",
+                "concession": "22",
+                "port": "2211",
+                "dateTime": "2019-03-11T17:08:37.309+0000",
+                "tagNumber": "",
+                "txNumber": "0002464787",
+                "vehicleDirection": 0,
+                "vehicleClass": 1,
+                "vehiclePlate": "74GI10",
+                "vehicleCountry": "P",
+                "plateImages": [
+                    {
+                        "imageNumber": "b95e4925c79f4ef4ae52de9f66505a56",
+                        "urlImage": "https://picsum.photos/id/1/1000/800",
+                        "imagePlateConfidence": 999,
+                        "imageViewType": "FRONT",
+                        "parameters": {
+                            "cropRegion": [
+                                {
+                                    "x": 301,
+                                    "y": 633
+                                },
+                                {
+                                    "x": 432,
+                                    "y": 650
+                                }
+                            ],
+                            "brightness": 1.0,
+                            "contrast": 1.0
+                        }
+                    },
+                    {
+                        "imageNumber": "075da81e41064b8c85d104804f55e8cf",
+                        "urlImage": "https://picsum.photos/1000/800",
+                        "imagePlateConfidence": 10,
+                        "imageViewType": "REAR",
+                        "parameters": {
+                            "cropRegion": [
+                                {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            ],
+                            "brightness": 1.0,
+                            "contrast": 1.0
+                        }
+                    },
+                    {
+                        "imageNumber": "4f9e5c64069e48399610361a29636ad7",
+                        "urlImage": "https://picsum.photos/1000/800",
+                        "imagePlateConfidence": 0,
+                        "imageViewType": "OVERVIEW",
+                        "parameters": {
+                            "cropRegion": [
+                                {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            ],
+                            "brightness": 1.0,
+                            "contrast": 1.0
+                        }
+                    }
+                ],
+                "wanted": false,
+                "status": 0
+            },
+            {
+		"id": "1",
+                "concession": "22",
+                "port": "2211",
+                "dateTime": "2019-03-11T17:08:39.056+0000",
+                "tagNumber": "0089007629",
+                "txNumber": "0002464788",
+                "vehicleDirection": 0,
+                "vehicleClass": 1,
+                "vehiclePlate": "06SH88",
+                "vehicleCountry": "P",
+                "plateImages": [
+                    {
+                        "imageNumber": "e0c6f82be53144f18acca076200f2477",
+                        "urlImage": "https://picsum.photos/1000/800",
+                        "imagePlateConfidence": 990,
+                        "imageViewType": "FRONT",
+                        "parameters": {
+                            "cropRegion": [
+                                {
+                                    "x": 211,
+                                    "y": 691
+                                },
+                                {
+                                    "x": 393,
+                                    "y": 717
+                                }
+                            ],
+                            "brightness": 1.0,
+                            "contrast": 1.0
+                        }
+                    },
+                    {
+                        "imageNumber": "2a9e6151dddc4685ad14b93315c297bf",
+			 "urlImage": "https://picsum.photos/1000/800",
+                        "imagePlateConfidence": 970,
+                        "imageViewType": "REAR",
+                        "parameters": {
+                            "cropRegion": [
+                                {
+                                    "x": 194,
+                                    "y": 685
+                                },
+                                {
+                                    "x": 366,
+                                    "y": 724
+                                }
+                            ],
+                            "brightness": 1.0,
+                            "contrast": 1.0
+                        }
+                    },
+                    {
+                        "imageNumber": "7f689e43df6949b788cf0dee12c8a958",
+                        "urlImage": "https://picsum.photos/1000/800",
+                        "imagePlateConfidence": 0,
+                        "imageViewType": "OVERVIEW",
+                        "parameters": {
+                            "cropRegion": [
+                                {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            ],
+                            "brightness": 1.0,
+                            "contrast": 1.0
+                        }
+                    }
+                ],
+                "wanted": false,
+                "status": 0
+            }
+        ],
   "profile": {
     "name": "typicode"
   }
