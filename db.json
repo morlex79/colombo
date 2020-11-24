@@ -148,7 +148,7 @@
                         }
                     }
                 ],
-                "wanted": false,
+                "wanted": true,
                 "status": 0
             }
         ],
