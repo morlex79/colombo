@@ -150,7 +150,83 @@
                 ],
                 "wanted": true,
                 "status": 0
-            }
+            },
+{
+		"id": "3",
+                "concession": "22",
+                "port": "2222",
+                "dateTime": "2019-03-11T17:08:37.309+0000",
+                "tagNumber": "",
+                "txNumber": "0002464787",
+                "vehicleDirection": 0,
+                "vehicleClass": 3,
+                "vehiclePlate": "",
+                "vehicleCountry": "",
+                "plateImages": [
+                    {
+                        "imageNumber": "b95e4925c79f4ef4ae52de9f66505a56",
+                        "urlImage": "https://picsum.photos/id/1/1000/800",
+                        "imagePlateConfidence": 999,
+                        "imageViewType": "FRONT",
+                        "parameters": {
+                            "cropRegion": [
+                                {
+                                    "x": 301,
+                                    "y": 633
+                                },
+                                {
+                                    "x": 432,
+                                    "y": 650
+                                }
+                            ],
+                            "brightness": 1.0,
+                            "contrast": 1.0
+                        }
+                    },
+                    {
+                        "imageNumber": "075da81e41064b8c85d104804f55e8cf",
+                        "urlImage": "https://picsum.photos/1000/800",
+                        "imagePlateConfidence": 10,
+                        "imageViewType": "REAR",
+                        "parameters": {
+                            "cropRegion": [
+                                {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            ],
+                            "brightness": 1.0,
+                            "contrast": 1.0
+                        }
+                    },
+                    {
+                        "imageNumber": "4f9e5c64069e48399610361a29636ad7",
+                        "urlImage": "https://picsum.photos/1000/800",
+                        "imagePlateConfidence": 0,
+                        "imageViewType": "OVERVIEW",
+                        "parameters": {
+                            "cropRegion": [
+                                {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            ],
+                            "brightness": 1.0,
+                            "contrast": 1.0
+                        }
+                    }
+                ],
+                "wanted": false,
+                "status": 0
+            }	
         ],
   "profile": {
     "name": "typicode"
