@@ -14,7 +14,6 @@
                 "vehiclePlateUser": "",
                 "vehicleCountryUser": "",
 		"reliability": 80,
-		"result": "",
                 "plateImages": [
                     {
                         "imageNumber": "b95e4925c79f4ef4ae52de9f66505a56",
@@ -94,8 +93,7 @@
 		"vehicleClassUser": null,
                 "vehiclePlateUser": "",
                 "vehicleCountryUser": "",
-		"reliability": 95,
-		"result": "",		    
+		"reliability": 95,	    
                 "plateImages": [
                     {
                         "imageNumber": "e0c6f82be53144f18acca076200f2477",
@@ -175,8 +173,7 @@
 		"vehicleClassUser": null,
                 "vehiclePlateUser": "",
                 "vehicleCountryUser": "",
-		"reliability": 30,
-		"result": "",	
+		"reliability": 30,	
                 "plateImages": [
                     {
                         "imageNumber": "b95e4925c79f4ef4ae52de9f66505a56",
