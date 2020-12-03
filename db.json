@@ -1,4 +1,14 @@
-{"transit": [
+{"role": [
+            {
+		"id": "1",
+                "description": "SUPERVISIÓN"
+	    },
+	            {
+		"id": "2",
+                "description": "VALIDACIÓN"
+	    }
+	],
+	"transit": [
             {
 		"id": "1",
                 "concession": "22",
