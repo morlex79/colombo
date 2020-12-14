@@ -18,71 +18,48 @@
                 "plate": "74GI10",
                 "country": "P",
 		"reliability": 80,
-                "plateImages": [
+		"images": {
+					"front": [
                     {
-                        "imageNumber": "b95e4925c79f4ef4ae52de9f66505a56",
-                        "urlImage": "https://picsum.photos/id/1/1000/800",
-                        "imagePlateConfidence": 999,
-                        "imageViewType": "FRONT",
-                        "parameters": {
-                            "cropRegion": [
-                                {
-                                    "x": 301,
-                                    "y": 633
-                                },
-                                {
-                                    "x": 432,
-                                    "y": 650
-                                }
-                            ],
-                            "brightness": 1.0,
-                            "contrast": 1.0
-                        }
-                    },
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					},
                     {
-                        "imageNumber": "075da81e41064b8c85d104804f55e8cf",
-                        "urlImage": "https://picsum.photos/1000/800",
-                        "imagePlateConfidence": 10,
-                        "imageViewType": "REAR",
-                        "parameters": {
-                            "cropRegion": [
-                                {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                {
-                                    "x": 0,
-                                    "y": 0
-                                }
-                            ],
-                            "brightness": 1.0,
-                            "contrast": 1.0
-                        }
-                    },
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					}					
+					],
+					"back": [
                     {
-                        "imageNumber": "4f9e5c64069e48399610361a29636ad7",
-                        "urlImage": "https://picsum.photos/1000/800",
-                        "imagePlateConfidence": 0,
-                        "imageViewType": "OVERVIEW",
-                        "parameters": {
-                            "cropRegion": [
-                                {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                {
-                                    "x": 0,
-                                    "y": 0
-                                }
-                            ],
-                            "brightness": 1.0,
-                            "contrast": 1.0
-                        }
-                    }
-                ],
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					},
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					}
+					],
+					"reference": 
+                    {
+						"path": "https://picsum.photos/1000/800"
+					}
+
+		},
                 "isForcedPlate": false,
 				"isForcedDem": false
-            },
+            }
             {
 		"id": "2",
                 "gantry": 2211,
@@ -92,68 +69,45 @@
                 "plate": "06SH88",
                 "country": "P",
 		"reliability": 95,	    
-                "plateImages": [
+		"images": {
+					"front": [
                     {
-                        "imageNumber": "e0c6f82be53144f18acca076200f2477",
-                        "urlImage": "https://picsum.photos/1000/800",
-                        "imagePlateConfidence": 990,
-                        "imageViewType": "FRONT",
-                        "parameters": {
-                            "cropRegion": [
-                                {
-                                    "x": 211,
-                                    "y": 691
-                                },
-                                {
-                                    "x": 393,
-                                    "y": 717
-                                }
-                            ],
-                            "brightness": 1.0,
-                            "contrast": 1.0
-                        }
-                    },
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					},
                     {
-                        "imageNumber": "2a9e6151dddc4685ad14b93315c297bf",
-			 "urlImage": "https://picsum.photos/1000/800",
-                        "imagePlateConfidence": 970,
-                        "imageViewType": "REAR",
-                        "parameters": {
-                            "cropRegion": [
-                                {
-                                    "x": 194,
-                                    "y": 685
-                                },
-                                {
-                                    "x": 366,
-                                    "y": 724
-                                }
-                            ],
-                            "brightness": 1.0,
-                            "contrast": 1.0
-                        }
-                    },
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					}					
+					],
+					"back": [
                     {
-                        "imageNumber": "7f689e43df6949b788cf0dee12c8a958",
-                        "urlImage": "https://picsum.photos/1000/800",
-                        "imagePlateConfidence": 0,
-                        "imageViewType": "OVERVIEW",
-                        "parameters": {
-                            "cropRegion": [
-                                {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                {
-                                    "x": 0,
-                                    "y": 0
-                                }
-                            ],
-                            "brightness": 1.0,
-                            "contrast": 1.0
-                        }
-                    }
-                ],
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					},
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					}
+					],
+					"reference": 
+                    {
+						"path": "https://picsum.photos/1000/800"
+					}
+
+		},
                 "isForcedPlate": true,
 				"isForcedDem": true
             },
@@ -166,68 +120,45 @@
                 "plate": "3456YHU",
                 "country": "",
 		"reliability": 30,	
-                "plateImages": [
+		"images": {
+					"front": [
                     {
-                        "imageNumber": "b95e4925c79f4ef4ae52de9f66505a56",
-                        "urlImage": "https://picsum.photos/id/1/1000/800",
-                        "imagePlateConfidence": 999,
-                        "imageViewType": "FRONT",
-                        "parameters": {
-                            "cropRegion": [
-                                {
-                                    "x": 301,
-                                    "y": 633
-                                },
-                                {
-                                    "x": 432,
-                                    "y": 650
-                                }
-                            ],
-                            "brightness": 1.0,
-                            "contrast": 1.0
-                        }
-                    },
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					},
                     {
-                        "imageNumber": "075da81e41064b8c85d104804f55e8cf",
-                        "urlImage": "https://picsum.photos/1000/800",
-                        "imagePlateConfidence": 10,
-                        "imageViewType": "REAR",
-                        "parameters": {
-                            "cropRegion": [
-                                {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                {
-                                    "x": 0,
-                                    "y": 0
-                                }
-                            ],
-                            "brightness": 1.0,
-                            "contrast": 1.0
-                        }
-                    },
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					}					
+					],
+					"back": [
                     {
-                        "imageNumber": "4f9e5c64069e48399610361a29636ad7",
-                        "urlImage": "https://picsum.photos/1000/800",
-                        "imagePlateConfidence": 0,
-                        "imageViewType": "OVERVIEW",
-                        "parameters": {
-                            "cropRegion": [
-                                {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                {
-                                    "x": 0,
-                                    "y": 0
-                                }
-                            ],
-                            "brightness": 1.0,
-                            "contrast": 1.0
-                        }
-                    }
-                ],
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					},
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					}
+					],
+					"reference": 
+                    {
+						"path": "https://picsum.photos/1000/800"
+					}
+
+		},
                 "isForcedPlate": false,
 				"isForcedDem": true
             }
