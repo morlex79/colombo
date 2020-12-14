@@ -9,20 +9,14 @@
 	    }
 	],
 	"transit": [
-            {
+{
 		"id": "1",
-                "concession": "22",
-                "port": "2211",
-                "dateTime": "2019-03-11T17:08:37.309+0000",
-                "tagNumber": "",
-                "txNumber": "0002464787",
-                "vehicleDirection": 0,
+                "gantry": 2211,
+                "time": "2019-03-11T17:08:37.309+0000",
+                "dem": "0002464787",
                 "vehicleClass": 1,
-                "vehiclePlate": "74GI10",
-                "vehicleCountry": "P",
-		"vehicleClassUser": null,
-                "vehiclePlateUser": "",
-                "vehicleCountryUser": "",
+                "plate": "74GI10",
+                "country": "P",
 		"reliability": 80,
                 "plateImages": [
                     {
@@ -86,23 +80,17 @@
                         }
                     }
                 ],
-                "wanted": false,
-                "status": 0
+                "isForcedPlate": false,
+				"isForcedDem": false
             },
             {
 		"id": "2",
-                "concession": "22",
-                "port": "2211",
-                "dateTime": "2019-03-11T17:08:39.056+0000",
-                "tagNumber": "0089007629",
-                "txNumber": "0002464788",
-                "vehicleDirection": 0,
+                "gantry": 2211,
+                "time": "2019-03-11T17:08:39.056+0000",
+                "dem": "0002464788",
                 "vehicleClass": 1,
-                "vehiclePlate": "06SH88",
-                "vehicleCountry": "P",
-		"vehicleClassUser": null,
-                "vehiclePlateUser": "",
-                "vehicleCountryUser": "",
+                "plate": "06SH88",
+                "country": "P",
 		"reliability": 95,	    
                 "plateImages": [
                     {
@@ -166,23 +154,17 @@
                         }
                     }
                 ],
-                "wanted": true,
-                "status": 0
+                "isForcedPlate": true,
+				"isForcedDem": true
             },
 {
 		"id": "3",
-                "concession": "22",
-                "port": "2222",
-                "dateTime": "2019-03-11T17:08:37.309+0000",
-                "tagNumber": "",
-                "txNumber": "0002464787",
-                "vehicleDirection": 0,
+                "gantry": 2222,
+                "time": "2019-03-11T17:08:37.309+0000",
+                "dem": "0002464787",
                 "vehicleClass": 3,
-                "vehiclePlate": "3456YHU",
-                "vehicleCountry": "",
-		"vehicleClassUser": null,
-                "vehiclePlateUser": "",
-                "vehicleCountryUser": "",
+                "plate": "3456YHU",
+                "country": "",
 		"reliability": 30,	
                 "plateImages": [
                     {
@@ -246,9 +228,9 @@
                         }
                     }
                 ],
-                "wanted": false,
-                "status": 0
-            }	
+                "isForcedPlate": false,
+				"isForcedDem": true
+            }
         ],
   "profile": {
     "name": "typicode"
