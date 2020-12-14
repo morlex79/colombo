@@ -8,6 +8,161 @@
                 "description": "VALIDACIÓN"
 	    }
 	],
+	"transit": [
+{
+		"id": "1",
+                "gantry": 2211,
+                "time": "2019-03-11T17:08:37.309+0000",
+                "dem": "0002464787",
+                "vehicleClass": 1,
+                "plate": "74GI10",
+                "country": "P",
+		"reliability": 80,
+		"images": {
+					"front": [
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					},
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					}					
+					],
+					"back": [
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					},
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					}
+					],
+					"reference": 
+                    {
+						"path": "https://picsum.photos/1000/800"
+					}
+
+		},
+                "isForcedPlate": false,
+				"isForcedDem": false
+            },
+            {
+		"id": "2",
+                "gantry": 2211,
+                "time": "2019-03-11T17:08:39.056+0000",
+                "dem": "0002464788",
+                "vehicleClass": 1,
+                "plate": "06SH88",
+                "country": "P",
+		"reliability": 95,	    
+		"images": {
+					"front": [
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					},
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					}					
+					],
+					"back": [
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					},
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					}
+					],
+					"reference": 
+                    {
+						"path": "https://picsum.photos/1000/800"
+					}
+
+		},
+                "isForcedPlate": true,
+				"isForcedDem": true
+            },
+{
+		"id": "3",
+                "gantry": 2222,
+                "time": "2019-03-11T17:08:37.309+0000",
+                "dem": "0002464787",
+                "vehicleClass": 3,
+                "plate": "3456YHU",
+                "country": "",
+		"reliability": 30,	
+		"images": {
+					"front": [
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					},
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					}					
+					],
+					"back": [
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					},
+                    {
+						"path": "https://picsum.photos/1000/800",
+						"plateLowerLeftX1": 301,
+						"plateLowerLeftY1": 633,
+						"plateUpperRightX1": 432,
+						"plateUpperRightY1": 650
+					}
+					],
+					"reference": 
+                    {
+						"path": "https://picsum.photos/1000/800"
+					}
+
+		},
+                "isForcedPlate": false,
+				"isForcedDem": true
+            }
+        ],
   "profile": {
     "name": "typicode"
   }
