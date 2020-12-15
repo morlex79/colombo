@@ -73,19 +73,19 @@
 					"front": [
                     {
 						"path": "assets/images/t1/A000010_P2817_C02_FM_D2019_02_04_T04_00_09_N0024939665.jif",
-						"plateLowerLeftX1": 301,
-						"plateLowerLeftY1": 633,
-						"plateUpperRightX1": 432,
-						"plateUpperRightY1": 650
+						"plateLowerLeftX1": 393,
+						"plateLowerLeftY1": 451,
+						"plateUpperRightX1": 591,
+						"plateUpperRightY1": 413
 					}					
 					],
 					"back": [
                     {
 						"path": "assets/images/t1/A000010_P2817_C01_OM_D2019_02_04_T04_00_09_N0024939665.jif",
-						"plateLowerLeftX1": 301,
-						"plateLowerLeftY1": 633,
-						"plateUpperRightX1": 432,
-						"plateUpperRightY1": 650
+						"plateLowerLeftX1": 479,
+						"plateLowerLeftY1": 533,
+						"plateUpperRightX1": 677,
+						"plateUpperRightY1": 495
 					}
 					],
 					"reference": 
@@ -109,39 +109,25 @@
 		"images": {
 					"front": [
                     {
-						"path": "https://picsum.photos/1000/800",
-						"plateLowerLeftX1": 301,
-						"plateLowerLeftY1": 633,
-						"plateUpperRightX1": 432,
-						"plateUpperRightY1": 650
-					},
-                    {
-						"path": "https://picsum.photos/1000/800",
-						"plateLowerLeftX1": 301,
-						"plateLowerLeftY1": 633,
-						"plateUpperRightX1": 432,
-						"plateUpperRightY1": 650
+						"path": "assets/images/t3/A000010_P2817_C02_FM_D2019_02_04_T04_14_56_N0024939669.jif",
+						"plateLowerLeftX1": 393,
+						"plateLowerLeftY1": 451,
+						"plateUpperRightX1": 591,
+						"plateUpperRightY1": 413
 					}					
 					],
 					"back": [
                     {
-						"path": "https://picsum.photos/1000/800",
-						"plateLowerLeftX1": 301,
-						"plateLowerLeftY1": 633,
-						"plateUpperRightX1": 432,
-						"plateUpperRightY1": 650
-					},
-                    {
-						"path": "https://picsum.photos/1000/800",
-						"plateLowerLeftX1": 301,
-						"plateLowerLeftY1": 633,
-						"plateUpperRightX1": 432,
-						"plateUpperRightY1": 650
+						"path": "assets/images/t3/A000010_P2817_C01_OM_D2019_02_04_T04_14_56_N0024939669.jif",
+						"plateLowerLeftX1": 479,
+						"plateLowerLeftY1": 533,
+						"plateUpperRightX1": 677,
+						"plateUpperRightY1": 495
 					}
 					],
 					"reference": 
                     {
-						"path": "https://picsum.photos/1000/800"
+						"path": "assets/images/t3/A000010_P2817_C02_RM_D2019_02_04_T04_14_56_N0024939669.jif"
 					}
 
 		},
