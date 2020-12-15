@@ -1,10 +1,10 @@
 {"role": [
             {
-		"id": "1",
+		"id": "REVIEWER",
                 "description": "SUPERVISIÓN"
 	    },
 	            {
-		"id": "2",
+		"id": "VALIDATOR",
                 "description": "VALIDACIÓN"
 	    }
 	],
