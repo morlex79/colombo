@@ -21,18 +21,18 @@
 		"images": {
 					"front": [
                     {
-						"path": "https://picsum.photos/1000/800",
-						"plateLowerLeftX1": 301,
-						"plateLowerLeftY1": 633,
-						"plateUpperRightX1": 432,
-						"plateUpperRightY1": 650
+						"path": "assets/images/t2/A000010_P2817_C02_RM_D2019_02_04_T04_03_37_N0024939666.jif",
+						"plateLowerLeftX1": 479,
+						"plateLowerLeftY1": 533,
+						"plateUpperRightX1": 677,
+						"plateUpperRightY1": 495
 					},
                     {
-						"path": "https://picsum.photos/1000/800",
-						"plateLowerLeftX1": 301,
-						"plateLowerLeftY1": 633,
-						"plateUpperRightX1": 432,
-						"plateUpperRightY1": 650
+						"path": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif",
+						"plateLowerLeftX1": 393,
+						"plateLowerLeftY1": 451,
+						"plateUpperRightX1": 591,
+						"plateUpperRightY1": 413
 					}					
 					],
 					"back": [
