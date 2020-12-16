@@ -12,7 +12,7 @@
 {
 		"id": "1",
                 "gantry": 2211,
-                "time": "2019-03-11T17:08:37.309+0000",
+                "time": "20201215080013.023",
                 "dem": "0002464787",
                 "vehicleClass": 1,
                 "plate": "74GI10",
@@ -52,18 +52,18 @@
 					}
 					],
 					"reference": 
-                    {
+                    [{
 						"path": "assets/images/t2/A000010_P2817_C02_RM_D2019_02_04_T04_03_37_N0024939666.jif"
-					}
+					}]
 
 		},
-                "isForcedPlate": false,
-				"isForcedDem": false
+                "forcedPlate": false,
+				"forcedDem": false
             },
             {
 		"id": "2",
                 "gantry": 2211,
-                "time": "2019-03-11T17:08:39.056+0000",
+                "time": "20201215080013.023",
                 "dem": "0002464788",
                 "vehicleClass": 1,
                 "plate": "06SH88",
@@ -89,18 +89,18 @@
 					}
 					],
 					"reference": 
-                    {
+                    [{
 						"path": "assets/images/t1/A000010_P2817_C01_OM_D2019_02_04_T04_00_09_N0024939665.jif"
-					}
+					}]
 
 		},
-                "isForcedPlate": true,
-				"isForcedDem": true
+                "forcedPlate": true,
+				"forcedDem": true
             },
 {
 		"id": "3",
                 "gantry": 2222,
-                "time": "2019-03-11T17:08:37.309+0000",
+                "time": "20201215080013.023",
                 "dem": "0002464787",
                 "vehicleClass": 3,
                 "plate": "3456YHU",
@@ -126,13 +126,13 @@
 					}
 					],
 					"reference": 
-                    {
+                    [{
 						"path": "assets/images/t3/A000010_P2817_C01_OM_D2019_02_04_T04_14_56_N0024939669.jif"
-					}
+					}]
 
 		},
-                "isForcedPlate": false,
-				"isForcedDem": true
+                "forcedPlate": false,
+				"forcedDem": true
             }
         ],
   "profile": {
