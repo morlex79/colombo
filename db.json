@@ -8,6 +8,35 @@
                 "description": "VALIDACIÓN"
 	    }
 	],
+ "historytransit": [
+{
+		"id": "1",
+		"concession": "A22",
+		"class": "1",
+		"plate": "74GI10",
+		"country": "P",
+		"time": "20201215080013.023",				
+		"status": "1"
+},
+{
+		"id": "2",
+		"concession": "A22",
+		"class": "2",
+		"plate": "2456RTE",
+		"country": "ES",
+		"time": "20201215080013.023",				
+		"status": "2"
+},
+{
+		"id": "3",
+		"concession": "A22",
+		"class": "3",
+		"plate": "1111AAA",
+		"country": "ES",
+		"time": "20201215080013.023",				
+		"status": "3"
+}
+],
 	"transit": [
 {
 		"id": "1",
