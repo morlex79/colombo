@@ -37,133 +37,136 @@
 		"status": "3"
 }
 ],
-	"transit": [
-{
-		"id": "1",
-                "gantry": 2211,
-                "time": "20201215080013.023",
-                "dem": "0002464787",
-                "vehicleClass": 1,
-                "plate": "74GI10",
-                "country": "P",
-		"reliability": 80,
-		"images": {
-					"front": [
-                    {
-						"path": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif",
-						"plateLowerLeftX1": 393,
-						"plateLowerLeftY1": 451,
-						"plateUpperRightX1": 591,
-						"plateUpperRightY1": 413
-					},
-                    {
-						"path": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif",
-						"plateLowerLeftX1": 393,
-						"plateLowerLeftY1": 451,
-						"plateUpperRightX1": 591,
-						"plateUpperRightY1": 413
-					}					
-					],
-					"back": [
-                    {
-						"path": "assets/images/t2/A000010_P2817_C02_RM_D2019_02_04_T04_03_37_N0024939666.jif",
-						"plateLowerLeftX1": 479,
-						"plateLowerLeftY1": 533,
-						"plateUpperRightX1": 677,
-						"plateUpperRightY1": 495
-					},
-                    {
-						"path": "assets/images/t2/A000010_P2817_C02_RM_D2019_02_04_T04_03_37_N0024939666.jif",
-						"plateLowerLeftX1": 479,
-						"plateLowerLeftY1": 533,
-						"plateUpperRightX1": 677,
-						"plateUpperRightY1": 495
-					}
-					],
-					"reference": 
-                    [{
-						"path": "assets/images/t2/A000010_P2817_C02_RM_D2019_02_04_T04_03_37_N0024939666.jif"
-					}]
-
-		},
-                "forcedPlate": false,
-				"forcedDem": false
-            },
-            {
-		"id": "2",
-                "gantry": 2211,
-                "time": "20201215080013.023",
-                "dem": "0002464788",
-                "vehicleClass": 1,
-                "plate": "06SH88",
-                "country": "P",
-		"reliability": 95,	    
-		"images": {
-					"front": [
-                    {
-						"path": "assets/images/t1/A000010_P2817_C02_FM_D2019_02_04_T04_00_09_N0024939665.jif",
-						"plateLowerLeftX1": 393,
-						"plateLowerLeftY1": 451,
-						"plateUpperRightX1": 591,
-						"plateUpperRightY1": 413
-					}					
-					],
-					"back": [
-                    {
-						"path": "assets/images/t1/A000010_P2817_C02_RM_D2019_02_04_T04_00_09_N0024939665.jif",
-						"plateLowerLeftX1": 479,
-						"plateLowerLeftY1": 533,
-						"plateUpperRightX1": 677,
-						"plateUpperRightY1": 495
-					}
-					],
-					"reference": 
-                    [{
-						"path": "assets/images/t1/A000010_P2817_C01_OM_D2019_02_04_T04_00_09_N0024939665.jif"
-					}]
-
-		},
-                "forcedPlate": true,
-				"forcedDem": true
-            },
-{
-		"id": "3",
-                "gantry": 2222,
-                "time": "20201215080013.023",
-                "dem": "0002464787",
-                "vehicleClass": 3,
-                "plate": "3456YHU",
-                "country": "",
-		"reliability": 30,	
-		"images": {
-					"front": [
-                    {
-						"path": "assets/images/t3/A000010_P2817_C02_FM_D2019_02_04_T04_14_56_N0024939669.jif",
-						"plateLowerLeftX1": 393,
-						"plateLowerLeftY1": 451,
-						"plateUpperRightX1": 591,
-						"plateUpperRightY1": 413
-					}					
-					],
-					"back": [
-                    {
-						"path": "assets/images/t3/A000010_P2817_C02_RM_D2019_02_04_T04_14_56_N0024939669.jif",
-						"plateLowerLeftX1": 479,
-						"plateLowerLeftY1": 533,
-						"plateUpperRightX1": 677,
-						"plateUpperRightY1": 495
-					}
-					],
-					"reference": 
-                    [{
-						"path": "assets/images/t3/A000010_P2817_C01_OM_D2019_02_04_T04_14_56_N0024939669.jif"
-					}]
-
-		},
-                "forcedPlate": false,
-				"forcedDem": true
-            }
-        ],
+	"validator-audit": [
+  {
+    "id": "1",
+	"concession": "A22",
+	"country": "P",
+	"plate": "74GI10",
+	"vehicleClass": "1",
+	"userCountry": "P",
+	"userPlate": "74GI10",
+	"userVehicleClass": "1",
+    "time": "20201215080013.023",
+    "reliability": 80,
+    "images": {
+      "front": [
+        {
+          "path": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif",
+          "plateLowerLeftX1": 393,
+          "plateLowerLeftY1": 451,
+          "plateUpperRightX1": 591,
+          "plateUpperRightY1": 413
+        },
+        {
+          "path": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif",
+          "plateLowerLeftX1": 393,
+          "plateLowerLeftY1": 451,
+          "plateUpperRightX1": 591,
+          "plateUpperRightY1": 413
+        }
+      ],
+      "back": [
+        {
+          "path": "assets/images/t2/A000010_P2817_C02_RM_D2019_02_04_T04_03_37_N0024939666.jif",
+          "plateLowerLeftX1": 479,
+          "plateLowerLeftY1": 533,
+          "plateUpperRightX1": 677,
+          "plateUpperRightY1": 495
+        },
+        {
+          "path": "assets/images/t2/A000010_P2817_C02_RM_D2019_02_04_T04_03_37_N0024939666.jif",
+          "plateLowerLeftX1": 479,
+          "plateLowerLeftY1": 533,
+          "plateUpperRightX1": 677,
+          "plateUpperRightY1": 495
+        }
+      ],
+      "reference": [
+        {
+          "path": "assets/images/t2/A000010_P2817_C02_RM_D2019_02_04_T04_03_37_N0024939666.jif"
+        }
+      ]
+    },
+	"user": "Juan"
+  },
+  {
+	"id": "2",
+	"concession": "A22",
+	"country": "P",
+	"plate": "06SH88",
+	"vehicleClass": "1",
+	"userCountry": "P",
+	"userPlate": "06SH80",
+	"userVehicleClass": "1",
+    "time": "20201215080013.023",
+    "reliability": 70,
+    "images": {
+      "front": [
+        {
+          "path": "assets/images/t1/A000010_P2817_C02_FM_D2019_02_04_T04_00_09_N0024939665.jif",
+          "plateLowerLeftX1": 393,
+          "plateLowerLeftY1": 451,
+          "plateUpperRightX1": 591,
+          "plateUpperRightY1": 413
+        }
+      ],
+      "back": [
+        {
+          "path": "assets/images/t1/A000010_P2817_C02_RM_D2019_02_04_T04_00_09_N0024939665.jif",
+          "plateLowerLeftX1": 479,
+          "plateLowerLeftY1": 533,
+          "plateUpperRightX1": 677,
+          "plateUpperRightY1": 495
+        }
+      ],
+      "reference": [
+        {
+          "path": "assets/images/t1/A000010_P2817_C01_OM_D2019_02_04_T04_00_09_N0024939665.jif"
+        }
+      ]
+    },
+	"user": "Pepe"
+  },
+  {
+	"id": "3",
+	"concession": "A22",
+	"country": "P",
+	"plate": "3456YHU",
+	"vehicleClass": "3",
+	"userCountry": "P",
+	"userPlate": "3456YHU",
+	"userVehicleClass": "1",
+    "time": "20201215080013.023",
+    "reliability": 70,
+    "images": {
+      "front": [
+        {
+          "path": "assets/images/t3/A000010_P2817_C02_FM_D2019_02_04_T04_14_56_N0024939669.jif",
+          "plateLowerLeftX1": 393,
+          "plateLowerLeftY1": 451,
+          "plateUpperRightX1": 591,
+          "plateUpperRightY1": 413
+        }
+      ],
+      "back": [
+        {
+          "path": "assets/images/t3/A000010_P2817_C02_RM_D2019_02_04_T04_14_56_N0024939669.jif",
+          "plateLowerLeftX1": 479,
+          "plateLowerLeftY1": 533,
+          "plateUpperRightX1": 677,
+          "plateUpperRightY1": 495
+        }
+      ],
+      "reference": [
+        {
+          "path": "assets/images/t3/A000010_P2817_C01_OM_D2019_02_04_T04_14_56_N0024939669.jif"
+        }
+      ]
+    },
+    "user": "Paco"
+  }
+],
   "profile": {
     "name": "typicode"
   }
