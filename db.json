@@ -9,7 +9,7 @@
         {
             "initDate": "2021-02-11T13:07:28.833+0000",
             "endDate": "2020-12-11T16:07:28.833+0000",
-            "idDEM": "ID",
+            "idDEM": "000000000000",
             "plateOrig": "AB12345",
             "plateMod": null,
             "vehicleClassOrig": "1",
@@ -21,7 +21,7 @@
                 {
                     "id": "60239318fb74bc69a5b00a6a",
                     "validatedVEP": true,
-                    "idDEM": null,
+                    "idDEM": "0000000001",
                     "plateOrig": "37TC57",
                     "plateMod": null,
                     "vehicleClassOrig": "2",
@@ -48,7 +48,7 @@
                 {
                     "id": "60239318fb74bc69a5b00a6b",
                     "validatedVEP": true,
-                    "idDEM": null,
+                    "idDEM": "0000000002",
                     "plateOrig": "7034NI",
                     "plateMod": null,
                     "vehicleClassOrig": "2",
