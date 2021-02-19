@@ -1,150 +1,78 @@
 {"trip": [
 {
-		"id": "1",
-                "concession": "A22",
-	"time": "20201215080013.023",
-                "startDate": "2021-02-16T15:16:23.584+0000",
-				"endDate": "2021-02-17T15:16:23.584+0000",
-                "dem": "0002464787",
-                "vehicleClass": 1,
-                "plate": "74GI10",
-                "country": "P",
-				"idMainImage": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif",
-		"transits": [
-		{
-				"id": "1",
-				"validatedVep": true,
-						"concession": "A22",
-						"time": "20201215080013.023",
-						"dem": "0002464787",
-						"vehicleClass": 1,
-						"plate": "74GI10",
-						"country": "P",
-						"idMainImage": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif",
-				"images": [
-							{
-								"imagePath": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif"
-							},
-							{
-								"imagePath": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif"
-							}					
-							]
-					},
-		{
-				"id": "2",
-				"validatedVep": false,
-						"concession": "A22",
-						"time": "20201215080013.023",
-						"dem": "111111111",
-						"vehicleClass": 1,
-						"plate": "74GI10",
-						"country": "ES",
-						"idMainImage": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif",
-				"images": [
-							{
-								"imagePath": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif"
-							},
-							{
-								"imagePath": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif"
-							}					
-							]
-					},	
-		{
-				"id": "3",
-				"validatedVep": false,
-						"concession": "A22",
-						"time": "20201215080013.023",
-						"dem": "111111111",
-						"vehicleClass": 1,
-						"plate": "74GI10",
-						"country": "ES",
-						"idMainImage": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif",
-				"images": [
-							{
-								"imagePath": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif"
-							},
-							{
-								"imagePath": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif"
-							}					
-							]
-					},	
-		{
-				"id": "4",
-				"validatedVep": false,
-						"concession": "A22",
-						"time": "20201215080013.023",
-						"dem": "111111111",
-						"vehicleClass": 1,
-						"plate": "74GI10",
-						"country": "ES",
-						"idMainImage": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif",
-				"images": [
-							{
-								"imagePath": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif"
-							},
-							{
-								"imagePath": "assets/images/t2/A000010_P2817_C02_FM_D2019_02_04_T04_03_37_N0024939666.jif"
-							}					
-							]
-					}					
-
-		],
-				"trips": [
-{
-		"id": "1",
-                "concession": "A22",
-	"time": "20201215080013.023",
-                "startDate": "2021-02-16T15:16:23.584+0000",
-				"endDate": "2021-02-17T15:16:23.584+0000",
-                "dem": "0002464787",
-                "vehicleClass": 1,
-                "plate": "6964DWF",
-                "country": "P",
-				"idMainImage": "assets/images/t3/A000010_P2817_C01_OM_D2019_02_04_T04_14_56_N0024939669.jif",
-		"transits": [
-		{
-				"id": "1",
-				"validatedVep": true,
-						"concession": "A22",
-						"time": "20201215080013.023",
-						"dem": "0002464787",
-						"vehicleClass": 1,
-						"plate": "6964DWF",
-						"country": "P",
-						"idMainImage": "assets/images/t3/A000010_P2817_C01_OM_D2019_02_04_T04_14_56_N0024939669.jif",
-				"images": [
-							{
-								"imagePath": "assets/images/t3/A000010_P2817_C01_OM_D2019_02_04_T04_14_56_N0024939669.jif"
-							},
-							{
-								"imagePath": "assets/images/t3/A000010_P2817_C01_OM_D2019_02_04_T04_14_56_N0024939669.jif"
-							}					
-							]
-					},
-		{
-				"id": "2",
-				"validatedVep": false,
-						"concession": "A22",
-						"time": "20201215080013.023",
-						"dem": "111111111",
-						"vehicleClass": 1,
-						"plate": "6964DWF",
-						"country": "P",
-						"idMainImage": "assets/images/t3/A000010_P2817_C01_OM_D2019_02_04_T04_14_56_N0024939669.jif",
-				"images": [
-							{
-								"imagePath": "assets/images/t3/A000010_P2817_C01_OM_D2019_02_04_T04_14_56_N0024939669.jif"
-							},
-							{
-								"imagePath": "assets/images/t3/A000010_P2817_C01_OM_D2019_02_04_T04_14_56_N0024939669.jif"
-							}					
-							]					
-
-		
-    }
-	]
-}	
-]
+    "idBuilding": "60128860fe3aa13aea5ed4fb",
+    "concession": "A22",
+    "status": "PENDING",
+    "vepUser": "",
+    "dateMod": "2020-12-11T16:07:28.833+0000",
+    "trips": [
+        {
+            "initDate": "2021-02-11T13:07:28.833+0000",
+            "endDate": "2020-12-11T16:07:28.833+0000",
+            "idDEM": "ID",
+            "plateOrig": "AB12345",
+            "plateMod": null,
+            "vehicleClassOrig": "1",
+            "vehicleClassMod": null,
+            "countryOrig": "PTR",
+            "countryMod": null,
+            "pathMainImage": "image_outOk/A123456_P2205_C02_FM_D2021_01_25_T08_00_13_N0002695878.jif",
+            "transits": [
+                {
+                    "id": "60239318fb74bc69a5b00a6a",
+                    "validatedVEP": true,
+                    "idDEM": null,
+                    "plateOrig": "37TC57",
+                    "plateMod": null,
+                    "vehicleClassOrig": "2",
+                    "vehicleClassMod": null,
+                    "countryOrig": "PRT",
+                    "countryMod": null,
+                    "pathMainImage": "image_outOk/A123456_P2205_C02_FM_D2021_01_25_T08_00_13_N0002695878.jif",
+                    "images": [
+                        {
+                            "id": "60239317b2299c4ba5178b05",
+                            "path": "image_outOk/A123456_P2205_C02_FM_D2021_01_25_T08_00_13_N0002695878.jif"
+                        },
+                        {
+                            "id": "60239317b2299c4ba5178b06",
+                            "path": "image_outOk/A123456_P2205_C02_RM_D2021_01_25_T08_00_13_N0002695878.jif"
+                        },
+                        {
+                            "id": "60239317b2299c4ba5178b07",
+                            "path": "image_outOk/A123456_P2205_C02_OM_D2021_01_25_T08_00_13_N0002695878.jif"
+                        }
+                    ]
+                },
+                {
+                    "id": "60239318fb74bc69a5b00a6b",
+                    "validatedVEP": true,
+                    "idDEM": null,
+                    "plateOrig": "7034NI",
+                    "plateMod": null,
+                    "vehicleClassOrig": "2",
+                    "vehicleClassMod": null,
+                    "countryOrig": "PRT",
+                    "countryMod": null,
+                    "pathMainImage": "image_outOk/A123456_P2205_C02_FM_D2021_01_25_T08_00_13_N0002695879.jif",
+                    "images": [
+                        {
+                            "id": "60239318b2299c4ba5178b08",
+                            "path": "image_outOk/A123456_P2205_C02_FM_D2021_01_25_T08_00_13_N0002695879.jif"
+                        },
+                        {
+                            "id": "60239318b2299c4ba5178b09",
+                            "path": "image_outOk/A123456_P2205_C02_RM_D2021_01_25_T08_00_13_N0002695879.jif"
+                        },
+                        {
+                            "id": "60239318b2299c4ba5178b0a",
+                            "path": "image_outOk/A123456_P2205_C02_OM_D2021_01_25_T08_00_13_N0002695879.jif"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }		
 ],
 	"role": [
