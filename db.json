@@ -79,11 +79,11 @@
 ],
 	"role": [
             {
-		"id": "REVIEWER",
+		"id": "SUPERVISOR",
                 "description": "SUPERVISIÓN"
 	    },
 	            {
-		"id": "VALIDATOR",
+		"id": "REVIEWER",
                 "description": "VALIDACIÓN"
 	    }
 	],
